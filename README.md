@@ -1,4 +1,4 @@
-## Busca Rápida de Camisas de Futebol
+## Busca Rápida de Camisas de Futebol - Imersão Dev com Google Gemini
 
 **Já imaginou ter todas as camisas de futebol que você ama reunidas em um só lugar?** ⚽ Com essa aplicação, você pode pesquisar por seu time do coração, um jogador específico ou até mesmo por tags como "retro" ou "edição especial".
 
